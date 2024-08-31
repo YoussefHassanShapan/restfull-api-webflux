@@ -1,4 +1,4 @@
-package youssef.com.retfullapiwebflux;
+package youssef.com.restfullwebflux;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
